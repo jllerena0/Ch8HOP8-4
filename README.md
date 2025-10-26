@@ -27,12 +27,11 @@
       font-family: Arial, sans-serif;
     }
 
-    /* Apply background color to even-numbered rows */
+  
     tr:nth-of-type(even) {
       background-color: #EAEAEA;
     }
 
-    /* Apply style to the first table row (header row) */
     tr:first-of-type {
       background-color: #006;
       color: #EAEAEA;
